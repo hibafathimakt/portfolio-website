@@ -174,5 +174,5 @@ export const contactLinks = {
   github: "https://github.com/hiba-fathimakt",
   linkedin: "https://www.linkedin.com/in/hiba-fathima-kt-7740a3342/",
   email: "hibakt96@gmail.com",
-  location: "Bengaluru, Karnataka, India",
+  location: "Palakkad, Kerala, India",
 };
