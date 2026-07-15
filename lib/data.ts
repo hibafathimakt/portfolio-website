@@ -85,7 +85,7 @@ export const projects: Project[] = [
       "OpenCV",
       "React Native",
     ],
-    github: "https://github.com/Hiba-fathimakt/ai-cctv-threat-detection",
+    github: "https://github.com/Hibafathimakt/ai-cctv-threat-detection",
     query:
       "SELECT incident_type, COUNT(*) FROM incidents GROUP BY incident_type;",
   },
@@ -103,7 +103,7 @@ export const projects: Project[] = [
       "JWT",
       "OCR",
     ],
-    github: "https://github.com/shahinakt/early-disease-predictor-system",
+    github: "https://github.com/hibafathimatkt/early-disease-predictor-system",
     query:
       "SELECT prediction, confidence FROM disease_predictions ORDER BY confidence DESC;",
   },
@@ -135,7 +135,7 @@ export const projects: Project[] = [
       "Framer Motion",
       "EmailJS",
     ],
-    github: "https://github.com/hiba-fathimakt/portfoli-webiste",
+    github: "https://github.com/hibafathimakt/portfoli-webiste",
     demo: "https://www.hibafathimakt.tech",
     query:
       "SELECT project, tech_stack FROM portfolio ORDER BY featured DESC;",
@@ -171,7 +171,7 @@ export const certifications = [
 ];
 
 export const contactLinks = {
-  github: "https://github.com/hiba-fathimakt",
+  github: "https://github.com/hibafathimakt",
   linkedin: "https://www.linkedin.com/in/hiba-fathima-kt-7740a3342/",
   email: "hibakt96@gmail.com",
   location: "Palakkad, Kerala, India",
