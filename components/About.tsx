@@ -70,7 +70,7 @@ export default function About() {
               under real data and real users.
             </p>
             <a
-              href="/hibafathimakt_resume.pdf"
+              href="/Hibafathimakt_resume.pdf"
               className="inline-flex items-center gap-2 mt-2 text-sm font-medium text-signal hover:gap-3 transition-all"
             >
               <FileDown size={16} /> Download Resume
