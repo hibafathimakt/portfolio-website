@@ -135,8 +135,8 @@ export const projects: Project[] = [
       "Framer Motion",
       "EmailJS",
     ],
-    github: "https://github.com/hibafathimakt/portfoli-webiste",
-    demo: "https://www.hibafathimakt.tech",
+    github: "https://github.com/hiba-fathimakt/portfoli-webiste",
+    demo: "https://hibafathimakt.github.io/portfolio-website/",
     query:
       "SELECT project, tech_stack FROM portfolio ORDER BY featured DESC;",
   },
